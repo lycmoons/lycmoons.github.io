@@ -10,11 +10,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Yingcheng Liu (刘应程)**, an incoming Ph.D. student at the **School of Computer Science and Technology, Tongji University**, in Shanghai, China.
+I am **Yingcheng Liu (刘应程)**, a first-year Ph.D. student at the **School of Computer Science and Technology, Tongji University**, Shanghai, China.
 
-My research interests include **deep learning**, **multimodal large language models (MLLMs)**, **vision-language models (VLMs)**, and **spatial reasoning**. I am currently exploring how **latent reasoning** can enhance the performance of VLMs on complex, vision-centric tasks.
+My research interests primarily include **deep learning**, **reinforcement learning**, **multimodal large language models (MLLMs)**, and **computer-using agents**.
 
 Outside of research, I enjoy playing basketball and swimming.
+
+# 🔬 Research Experience
+
+### MoLE: Mixture of Latent Experts for Complementary Visual Reasoning
+
+*First Author · Under Review at ICLR 2027 · [arXiv](https://arxiv.org/abs/2610.01917)*
+
+I developed **MoLE**, a Mixture of Latent Experts framework that improves latent visual reasoning in vision-language models by encouraging different latent experts to extract complementary visual evidence. MoLE combines dynamic visual-token routing, expert-specific visual transformations, and latent summary experts within a two-stage training pipeline. Across five visual reasoning benchmarks, it achieves an average score of 78.6, outperforming data-matched supervised fine-tuning by 4.9 points and the strongest evaluated latent visual reasoning baseline under the same latent budget by 3.6 points.
 
 # 🎖 Honors and Awards
 
@@ -25,6 +33,6 @@ Outside of research, I enjoy playing basketball and swimming.
 
 # 📖 Education
 
-- *Starting September 2026*: Ph.D. Student, **School of Computer Science and Technology, Tongji University**, Shanghai, China.
+- *September 2026 – Present*: Ph.D. Student, **School of Computer Science and Technology, Tongji University**, Shanghai, China.
 - *September 2022 – June 2026*: Undergraduate Student, **School of Computer Science and Technology, Tongji University**, Shanghai, China.
 - *September 2019 – June 2022*: High School Student, **Changsha No. 1 High School**, Changsha, Hunan, China.

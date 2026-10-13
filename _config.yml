@@ -10,7 +10,7 @@ baseurl: ""
 
 # Site Settings
 title                    : "Yingcheng Liu"
-description              : "Incoming Ph.D. student at Tongji University researching multimodal learning and spatial reasoning"
+description              : "First-year Ph.D. student at Tongji University researching multimodal reasoning and computer-using agents"
 repository               : "lycmoons/lycmoons.github.io"
 google_scholar_stats_use_cdn : true
 
