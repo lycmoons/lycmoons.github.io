@@ -18,6 +18,17 @@ My research interests primarily include **deep learning**, **reinforcement learn
 
 Outside of research, I enjoy playing basketball and swimming.
 
+<span class='anchor' id='technical-skills'></span>
+
+# 🛠 Technical Skills
+
+- I am proficient in **C++**, **Python**, and **Java**, with hands-on development experience and the ability to confidently read, write, and maintain code and scripts.
+- I am comfortable working in Linux-based environments for software development and research.
+- I have a strong mathematical background and an in-depth understanding of the principles underlying **deep learning** and **reinforcement learning**.
+- I have a solid understanding of mainstream **LLM** and **VLM** architectures and training paradigms, with practical experience using open-source model weights for inference, fine-tuning, and training.
+- I am familiar with the fundamental architectures, components, and workflows of agentic systems.
+- I scored **517** on CET-4 and **464** on CET-6 and can read academic literature and communicate effectively in English.
+
 <span class='anchor' id='research-experience'></span>
 
 # 🔬 Research Experience
@@ -27,17 +38,6 @@ Outside of research, I enjoy playing basketball and swimming.
 *First Author · Under Review at ICLR 2027 · [arXiv](https://arxiv.org/abs/2610.01917)*
 
 I developed **MoLE**, a Mixture of Latent Experts framework that improves latent visual reasoning in vision-language models by encouraging different latent experts to extract complementary visual evidence. MoLE combines dynamic visual-token routing, expert-specific visual transformations, and latent summary experts within a two-stage training pipeline. Across five visual reasoning benchmarks, it achieves an average score of 78.6, outperforming data-matched supervised fine-tuning by 4.9 points and the strongest evaluated latent visual reasoning baseline under the same latent budget by 3.6 points.
-
-<span class='anchor' id='technical-skills'></span>
-
-# 🛠 Technical Skills
-
-- **Programming:** Proficient in **C++**, **Python**, and **Java**, with hands-on development experience and the ability to confidently read, write, and maintain code and scripts.
-- **Linux:** Comfortable working in Linux-based environments for software development and research.
-- **Mathematical and Machine Learning Foundations:** Strong mathematical background with an in-depth understanding of the principles underlying **deep learning** and **reinforcement learning**.
-- **Large Multimodal Models:** Solid understanding of mainstream **LLM** and **VLM** architectures and training paradigms, with practical experience using open-source model weights for inference, fine-tuning, and training.
-- **AI Agents:** Familiar with the fundamental architectures, components, and workflows of agentic systems.
-- **English:** CET-4: **517**; CET-6: **464**. Proficient in reading academic literature and communicating effectively in English.
 
 # 🎖 Honors and Awards
 
