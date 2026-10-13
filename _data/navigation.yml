@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "关于我"
+  - title: "About Me"
     url: "/#about-me"
 
-  - title: "专业技能"
+  - title: "Technical Skills"
     url: "/#technical-skills"
 
-  - title: "科研经历"
+  - title: "Research Experience"
     url: "/#research-experience"
 
-  - title: "荣誉与获奖"
-    url: "/#honors-and-awards"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
-  - title: "教育经历"
-    url: "/#education"
+  - title: "Education"
+    url: "/#-education"

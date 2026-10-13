@@ -9,8 +9,8 @@ url: "https://lycmoons.github.io"
 baseurl: ""
 
 # Site Settings
-title                    : "刘应程"
-description              : "同济大学计算机科学与技术学院博士一年级学生，研究兴趣包括深度学习、强化学习、多模态大语言模型与计算机操作智能体"
+title                    : "Yingcheng Liu"
+description              : "First-year Ph.D. student at Tongji University researching multimodal reasoning and computer-using agents"
 repository               : "lycmoons/lycmoons.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,10 +24,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "刘应程（Yingcheng Liu）"
+  name             : "Yingcheng Liu (刘应程)"
   avatar           : "assets/yingcheng-liu.jpg"
-  bio              : "同济大学计算机科学与技术学院"
-  location         : "中国上海"
+  bio              : "School of Computer Science and Technology, Tongji University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    :
