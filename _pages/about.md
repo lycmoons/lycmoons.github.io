@@ -35,18 +35,18 @@ redirect_from:
 
 ### MoLE: Mixture of Latent Experts for Complementary Visual Reasoning
 
-*第一作者 · ICLR 2027 在审 · [arXiv](https://arxiv.org/abs/2610.01917)*
+*第一作者 · ICLR 2027 在投 · [arXiv](https://arxiv.org/abs/2610.01917)*
 
-我提出了 **MoLE（Mixture of Latent Experts）**框架，通过促进不同潜在专家提取互补的视觉证据，提升视觉语言模型的潜在视觉推理能力。MoLE 将动态视觉 token 路由、专家特定的视觉变换和潜在汇总专家（latent summary experts）相结合，并采用两阶段训练流程。在五项视觉推理基准上，MoLE 的平均得分达到 78.6，较数据匹配的监督微调（SFT）提升 4.9 分，较相同 latent token 预算下表现最强的潜在视觉推理基线提升 3.6 分。
+我提出了 **MoLE（Mixture of Latent Experts）**框架，通过促进不同 Latent Experts 提取互补的视觉证据，提升视觉语言模型的推理能力。MoLE 将动态视觉 token 路由、专家特定的视觉变换和潜在汇总专家（latent summary experts）相结合，并采用两阶段训练流程。在五项视觉推理的 Benchmark 上（CVBench、BLINK、RealWorldQA、POPE、V\*Bench），MoLE 的平均得分达到 78.6，较数据匹配的监督微调（SFT）提升 4.9 分，较相同 latent token 预算下表现最强的 Latent Visual Reasoning 基线提升 3.6 分。
 
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 荣誉与获奖经历
 
-- *2025–2026*：同济大学**优秀学生奖学金三等奖**。
-- *2025*：第二届“上经贸大杯·创聚上海”上海市大学生创新创业大赛**二等奖**。
+- *2025–2026*：同济大学**优秀本科生奖学金三等奖**。
+- *2025*：第二届“上证杯”“海聚英才”上海大学生创新创业大赛**二等奖**。
 - *2025*：第十七届上海市大学生计算机应用能力大赛**三等奖**。
-- *2022–2023*：同济大学**优秀学生奖学金二等奖**。
+- *2022–2023*：同济大学**优秀本科生奖学金二等奖**。
 
 <span class='anchor' id='education'></span>
 
